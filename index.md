@@ -1,10 +1,10 @@
-# This is an `<h1>` header, which is the largest
+# Hello I am Learning
 
-## This is an `<h2>` header
+## This is what an `<h2>` header looks like
 
 ###### This is an `<h6>` header, which is the smallest
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Zoro](https://th.bing.com/th/id/R.49cfc509bf42096543973cbea375bb76?rik=Kz6Gq5dIzGwLcQ&pid=ImgRaw&r=0)
 
 
 Edited the file and added 3 different headers. Added an image.
