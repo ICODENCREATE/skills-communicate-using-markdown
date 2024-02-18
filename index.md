@@ -9,6 +9,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Finish Assignment-3
+- [ ] Create Hyperlinks for the repositories.
+- [ ] convert file to pdf.
 
-
-Edited the file and added 3 different headers. Added an image. Added a code example.
+Edited the file and added 3 different headers. Added an image. Added a code example. Added a task list.
