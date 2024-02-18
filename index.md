@@ -4,5 +4,7 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Edited the file and added 3 different headers.
+
+Edited the file and added 3 different headers. Added an image.
