@@ -6,5 +6,9 @@
 
 ![Image of Zoro](https://th.bing.com/th/id/R.49cfc509bf42096543973cbea375bb76?rik=Kz6Gq5dIzGwLcQ&pid=ImgRaw&r=0)
 
+``` javascript
+var myVar = "Hello, world!";
+```
 
-Edited the file and added 3 different headers. Added an image.
+
+Edited the file and added 3 different headers. Added an image. Added a code example.
